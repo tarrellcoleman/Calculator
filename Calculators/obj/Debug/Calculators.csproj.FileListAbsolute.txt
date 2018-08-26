@@ -1,0 +1,9 @@
+c:\users\tarrell\documents\visual studio 2015\Projects\Calculators\Calculators\bin\Debug\Calculators.exe.config
+c:\users\tarrell\documents\visual studio 2015\Projects\Calculators\Calculators\bin\Debug\Calculators.exe
+c:\users\tarrell\documents\visual studio 2015\Projects\Calculators\Calculators\bin\Debug\Calculators.pdb
+c:\users\tarrell\documents\visual studio 2015\Projects\Calculators\Calculators\obj\Debug\Calculators.csprojResolveAssemblyReference.cache
+c:\users\tarrell\documents\visual studio 2015\Projects\Calculators\Calculators\obj\Debug\Calculators.Form1.resources
+c:\users\tarrell\documents\visual studio 2015\Projects\Calculators\Calculators\obj\Debug\Calculators.Properties.Resources.resources
+c:\users\tarrell\documents\visual studio 2015\Projects\Calculators\Calculators\obj\Debug\Calculators.csproj.GenerateResource.Cache
+c:\users\tarrell\documents\visual studio 2015\Projects\Calculators\Calculators\obj\Debug\Calculators.exe
+c:\users\tarrell\documents\visual studio 2015\Projects\Calculators\Calculators\obj\Debug\Calculators.pdb
